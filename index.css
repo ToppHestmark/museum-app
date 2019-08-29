@@ -1,5 +1,6 @@
+
 main {
-    background: rgb(253, 253, 253);
+    background: rgb(200, 196, 212);
     width: 90%;
     margin: auto;
     border-radius: 5px;
@@ -11,8 +12,9 @@ main {
     margin: 3rem 1rem 6rem 1rem;
     font-weight: bold;
 }
+
 .artObject {
-    max-width: 80%;
+    max-width: 60%;
     max-height: 20rem;
     margin: 1rem;
 }
@@ -20,7 +22,7 @@ body {
     margin: 0;
     padding: 2rem 0;
     width: 100%;
-    background: rgb(46, 44, 65);
+    background: rgb(156, 154, 180);
     font-family: 'Inconsolata', monospace;
     text-align: center;
 }
