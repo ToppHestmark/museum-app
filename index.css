@@ -6,6 +6,7 @@ main {
     border-radius: 5px;
     padding: 2rem 0;
   }
+
   h1 {
     display: block;
     font-size: 1em;
@@ -18,8 +19,9 @@ main {
     max-height: 20rem;
     margin: 1rem;
 }
+
 body {
-    margin: 0;
+    margin: auto;
     padding: 2rem 0;
     width: 100%;
     background: rgb(156, 154, 180);
@@ -30,13 +32,16 @@ body {
     display: block;
     margin: 8px;
 }
+
 html {
     color: -internal-root-color;
 }
+
 img {
     width: 50%;
     min-width: 15rem;
 }
+
 #gallery {
     display: flex;
     flex-flow: row wrap;
